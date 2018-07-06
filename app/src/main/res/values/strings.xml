@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Love Languages Quiz</string>
+    <!--Words of affirmation text-->
+    <string name="words_of_affirmation">Words Of Affirmation</string>
+    <!--Quality time text -->
+    <string name="quality_time">Quality Time</string>
+    <!--Acts of service text -->
+    <string name="acts_of_service">Acts of Service</string>
+    <!--Physical touch text-->
+    <string name="physical_touch">Physical Touch</string>
+    <!--Receiving gifts text-->
+    <string name="receiving_gifts">Receiving Gifts</string>
+
+    <!--Question 1-->
+    <string name="question1">I feel most loved when&#8230;</string>
+    <!--physical touch answer for Q1-->
+    <string name="physical_touch_q1">Someone embraces me in a hug, holds my hand, or gently caresses my skin.</string>
+    <!-- Quality Time answer for Q1 -->
+    <string name="quality_time_q1">Others take the time to listen to me and understand my feelings.</string>
+    <!-- Acts of service answer for Q1-->
+    <string name="acts_of_service_q1">My loved ones help me out with chores and projects.</string>
+    <!-- Words of affirmation answer for Q1 -->
+    <string name="words_of_affirmation_q1">Someone affirms how special I am to them through loving words, e.g., &quot;You mean so much to me.&quot;</string>
+    <!--Receiving gifts answer for Q1-->
+    <string name="receiving_gifts_q1">Someone was thinking about me and surprises me with a gift.</string>
+
+    <!--Question 2-->
+    <string name="question2">My ideal birthday present would be&#8230;</string>
+    <!--physical touch answer for Q2-->
+    <string name="physical_touch_q2">fun night out dancing or an intimate night in with someone special, e.g., a massage or sex would be nice.</string>
+    <!-- Quality Time answer for Q2 -->
+    <string name="quality_time_q2">Anything, as long I get the full attention of those I love and spend the day in their company.</string>
+    <!-- Acts of service answer for Q2-->
+    <string name="acts_of_service_q2">A homemade birthday cake and a carefree day where I get to do all the things I usually can\'t.</string>
+    <!-- Words of affirmation answer for Q2 -->
+    <string name="words_of_affirmation_q2">A video, audio recording or personally written card which describes why I mean so much to them.</string>
+    <!--Receiving gifts answer for Q2-->
+    <string name="receiving_gifts_q2">Receiving a meaningful gift that shows someone cares enough to know exactly what I\'d like.</string>
+
+    <!--Question 3-->
+    <string name="question3">When someone special to you is emotional and going through something difficult, your first instinct is to&#8230;</string>
+    <!--physical touch answer for Q3-->
+    <string name="physical_touch_q3">To offer them a big warm hug and be a shoulder to cry on.</string>
+    <!-- Quality Time answer for Q3 -->
+    <string name="quality_time_q3">Sit down with them and ask them all about the problem; to offer a listening ear and loving heart.</string>
+    <!-- Acts of service answer for Q3-->
+    <string name="acts_of_service_q3">Offer to take them out to do something fun that\'ll get their minds off things.</string>
+    <!-- Words of affirmation answer for Q3 -->
+    <string name="words_of_affirmation_q3">To tell them how strong they are as a person, and remind them of all their wonderful qualities.</string>
+    <!--Receiving gifts answer for Q3-->
+    <string name="receiving_gifts_q3">To buy them something special that you know will cheer them up.</string>
+
+    <!--Question 4-->
+    <string name="question4">After a hard day of work, I look forward to&#8230;</string>
+    <!--physical touch answer for Q4-->
+    <string name="physical_touch_q4">Snuggling or cuddling and feeling the warmth of another person.</string>
+    <!-- Quality Time answer for Q4 -->
+    <string name="quality_time_q4">Going for a walk or spending uninterrupted time with someone important to me.</string>
+    <!-- Acts of service answer for Q4-->
+    <string name="acts_of_service_q4">Someone showing me how much they care by cooking a homemade meal or running me a nice bath.</string>
+    <!-- Words of affirmation answer for Q4 -->
+    <string name="words_of_affirmation_q4">Sharing all the things that happened to me that day, and hearing words of acceptance and support.</string>
+    <!--Receiving gifts answer for Q4-->
+    <string name="receiving_gifts_q4">An unexpected gift; a box of goodies, flowers or a book I\'ve had my eye on for a while.</string>
+
+    <!--Question 5-->
+    <string name="question5">Nothing says I love you more than&#8230;</string>
+    <!--physical touch answer for Q5-->
+    <string name="physical_touch_q5">Feeling someone else embrace you or give you affection.</string>
+    <!-- Quality Time answer for Q5 -->
+    <string name="quality_time_q5">Offering your undivided attention to someone.</string>
+    <!-- Acts of service answer for Q5-->
+    <string name="acts_of_service_q5">A loving act or helping hand.</string>
+    <!-- Words of affirmation answer for Q5 -->
+    <string name="words_of_affirmation_q5">Being complimented, having one\'s efforts acknowledged or hearing \"I love you.\"</string>
+    <!--Receiving gifts answer for Q5-->
+    <string name="receiving_gifts_q5">A thoughtful gift.</string>
+
+    <!--Question 6-->
+    <string name="question6">To help inspire confidence in another person, do you&#8230;</string>
+    <!--physical touch answer for Q6-->
+    <string name="physical_touch_q6">Give them a pat on the back and a motivational arm rub, stating \"You can do it!\"</string>
+    <!-- Quality Time answer for Q6 -->
+    <string name="quality_time_q6">Provide an outlet for them, and listen to their concerns.</string>
+    <!-- Acts of service answer for Q6-->
+    <string name="acts_of_service_q6">Show them how something is done, and teach them how to improve.</string>
+    <!-- Words of affirmation answer for Q6 -->
+    <string name="words_of_affirmation_q6">Tell them you believe in them and trust in their abilities.</string>
+    <!--Receiving gifts answer for Q6-->
+    <string name="receiving_gifts_q6">Give them a tool, amulet or sacred object that will help them.</string>
+
+    <!--Question 7-->
+    <string name="question7">When I was a child, I felt closest to my parents or siblings when&#8230;</string>
+    <!--physical touch answer for Q7-->
+    <string name="physical_touch_q7">They caringly touched or physically held me.</string>
+    <!-- Quality Time answer for Q7-->
+    <string name="quality_time_q7">They spoke to me, and we did something fun together.</string>
+    <!-- Acts of service answer for Q7-->
+    <string name="acts_of_service_q7">They did things for me because they knew I\'d enjoy them.</string>
+    <!-- Words of affirmation answer for Q7 -->
+    <string name="words_of_affirmation_q7">They verbally expressed how important I was to them and how much I meant to them.</string>
+    <!--Receiving gifts answer for Q7-->
+    <string name="receiving_gifts_q7">They gave me something that they knew I would like.</string>
+
+    <!--Question 8-->
+    <string name="question8">What qualities and behaviors do you value the most in other people?</string>
+    <!--physical touch answer for Q8-->
+    <string name="physical_touch_q8">Affectionate personality and warmth.</string>
+    <!-- Quality Time answer for Q8-->
+    <string name="quality_time_q8">Conversations and closeness.</string>
+    <!-- Acts of service answer for Q8-->
+    <string name="acts_of_service_q8">Helpfulness and caringness.</string>
+    <!-- Words of affirmation answer for Q8 -->
+    <string name="words_of_affirmation_q8">Praise, positivity and encouragement.</string>
+    <!--Receiving gifts answer for Q8-->
+    <string name="receiving_gifts_q8">Thoughtful presents and gifts.</string>
+
+    <!--Question 9-->
+    <string name="question9">If you were to tell your partner one thing, what would it be&#8230;</string>
+    <!--physical touch answer for Q9-->
+    <string name="physical_touch_q9">When you hold my hand, it\'s the best part of my day.</string>
+    <!-- Quality Time answer for Q9-->
+    <string name="quality_time_q9">Eye contact lets me know that you really care.</string>
+    <!-- Acts of service answer for Q9-->
+    <string name="acts_of_service_q9">Your actions speak louder than words to me.</string>
+    <!-- Words of affirmation answer for Q9 -->
+    <string name="words_of_affirmation_q9">I feel the most loved when you tell me I\'m appreciated.</string>
+    <!--Receiving gifts answer for Q9-->
+    <string name="receiving_gifts_q9">I appreciate it when you take the time to buy me thoughtful presents.</string>
+
+    <!--Question 10-->
+    <string name="question10">When I\'m feeling a little down&#8230;</string>
+    <!--physical touch answer for Q10-->
+    <string name="physical_touch_q10">I just want to be held or embraced.</string>
+    <!-- Quality Time answer for Q10-->
+    <string name="quality_time_q10">Talking things through with others clears up my head.</string>
+    <!-- Acts of service answer for Q10-->
+    <string name="acts_of_service_q10">The many little things someone does for me makes all the difference.</string>
+    <!-- Words of affirmation answer for Q10 -->
+    <string name="words_of_affirmation_q10">I read old letters/notes or repeat daily affirmations that boost my mood.</string>
+    <!--Receiving gifts answer for Q10-->
+    <string name="receiving_gifts_q10">I carry little gifts with me for sentimental value that cheer me up.</string>
+
+    <!-- Next question button text-->
+    <string name="next">Next</string>
+    <!--Quiz Results button text-->
+    <string name="finish">Finish</string>
+    <!--Restart Quiz-->
+    <string name="restart">Restart</string>
+</resources>

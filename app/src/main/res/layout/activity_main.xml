@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jaielalondon.lovelanguagesquiz.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/QuestionText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question1" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2">
+
+            <RadioButton
+                android:id="@+id/physicalTouch"
+                style="@style/RadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/physical_touch_q1" />
+
+            <RadioButton
+                android:id="@+id/qualityTime"
+                style="@style/RadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/quality_time_q1" />
+
+            <RadioButton
+                android:id="@+id/actsOfService"
+                style="@style/RadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/acts_of_service_q1" />
+
+            <RadioButton
+                android:id="@+id/wordsOfAffirmation"
+                style="@style/RadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/words_of_affirmation_q1" />
+
+            <RadioButton
+                android:id="@+id/receivingGifts"
+                style="@style/RadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/receiving_gifts_q1" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:background="#448AFF"
+            android:onClick="results"
+            android:text="@string/next"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/questionsCounter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:text="1/10" />
+
+
+    </LinearLayout>
+
+</ScrollView>
